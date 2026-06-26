@@ -126,7 +126,7 @@ Love clean tools, small utilities, and elegant desktop workflows.
 ## 🔗 Useful links
 
 - GitHub: https://github.com/theycallmearnav
-- This repo: https://github.com/theycallmearnav/DC
+- This repo: (https://github.com/theycallmearnav/Discord-Quest-Completor)
 
 ---
 

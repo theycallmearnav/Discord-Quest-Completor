@@ -1,0 +1,19 @@
+[
+  {
+    "id": "1001",
+    "name": "Sample Game",
+    "aliases": ["sample", "demo"],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "Sample Game",
+        "filename": "sample.exe",
+        "path": "C:\\Games\\Sample",
+        "os": "windows",
+        "is_installed": false,
+        "is_running": false,
+        "segments": 0
+      }
+    ]
+  }
+]
